@@ -1,0 +1,16 @@
+Property Type,Booking Status,Count,Avg Days to Close,Min Days,Max Days
+Apartment,Booked,35443,51.2,10,135
+Apartment,Lost,10905,51.2,10,135
+Apartment,Pending,8233,51,10,135
+Penthouse,Booked,6718,202.9,45,360
+Penthouse,Lost,2062,202.1,45,360
+Penthouse,Pending,1544,200.4,45,360
+Plot,Booked,10300,67.7,15,120
+Plot,Lost,3226,67.4,15,146
+Plot,Pending,2271,66.4,15,120
+Studio,Booked,6849,33.2,7,60
+Studio,Lost,2133,33.7,7,60
+Studio,Pending,1611,33.1,7,60
+Villa,Booked,8976,138.9,30,270
+Villa,Lost,2749,139.3,30,270
+Villa,Pending,1980,141.4,30,270
